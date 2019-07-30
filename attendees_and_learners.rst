@@ -363,4 +363,4 @@ I followed the tutorial online
 * Leticia Ulloa
 * La Chilindrina
 * Anselmo ~ <agprocida@gmail.com> ~ anselmoprocida
-* Tianran Yao - <yaotianran@gmail.com> 2019.07.30
+* Tianran Yao - <yaotianran@gmail.com> 2019.07.30 Github account name: yaotianran  
